@@ -1,3 +1,4 @@
+<?php
 add_filter('user_contactmethods', 'modify_user_contact_methods');
 
 function modify_user_contact_methods($methods)
@@ -95,3 +96,4 @@ function add_author_block($content)
 	return $content . $before . get_the_author_meta('facebook-f');
 
 }
+?>
