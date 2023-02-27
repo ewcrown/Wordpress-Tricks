@@ -1,0 +1,175 @@
+
+
+#psthis-top-section-btb > div > div{
+	width:100%;
+}
+.dsm_typing_effect_0 h1.et_pb_module_header, .dsm_typing_effect_0 h2.et_pb_module_header, .dsm_typing_effect_0 h3.et_pb_module_header, .dsm_typing_effect_0 h4.et_pb_module_header, .dsm_typing_effect_0 h5.et_pb_module_header, .dsm_typing_effect_0 h6.et_pb_module_header {
+    font-family: 'Kristi',handwriting;
+    font-size: 32px;
+    line-height: 1.7em;
+}
+body{
+	font-size:18px !important;
+	line-height:22px !important;
+}
+
+/* header section start hare */
+#main-menu li a {
+    padding: 0 10px;
+}
+.header-logo .site-description {
+    display: none;
+}
+/* header section end hare */
+/* post section start hare */
+.page-content .post-title a:hover {
+    color: #ff3b69;
+}
+/* post section end hare */
+/*Post Slider section start hare */
+.psac-post-slider.psac-design-1 .psac-post-overlay {
+    background: none;
+    border: none;
+}
+.psac-link-overlay {
+    color: #ffffff;
+    background-color: #00000069;
+}
+#rim-footer-widgt .wp-block-latest-posts__post-title {
+font-weight: 400;
+}
+#rightSideRim a,
+#categories-3 .cat-item a,
+#rim-footer-widgt .cat-item a{
+    font-weight: 400;
+    font-family:'Open Sans'; 
+    font-style: normal;
+    font-size: 15px;
+    line-height: 25px;
+}
+.page-content a,
+.post-categories,
+#page-wrap .ashe-widget.widget_text a,
+#page-wrap .ashe-widget.ashe_author_widget a {
+    color: #fff;
+}
+.page-content a,
+.post-categories {
+    color: #333;
+    font-weight: bold;
+}
+.psac-post-meta {
+    color: #fff;
+}
+.psac-post-content {
+    color: #fff;
+}
+.psac-post-slider.psac-design-1 .psac-readmorebtn {
+    color: #fff;
+    border: 2px solid #fff;
+    font-size: 13px;
+    font-weight: 700;
+    margin-top: 40px;
+}
+.psac-post-slider.psac-design-1 .psac-readmorebtn:hover {
+    color: #ff3b69;
+    border: 2px solid #ff3b69;
+    background: none;
+}
+.psac-slider-and-carousel .owl-nav .owl-next,
+.psac-slider-and-carousel .owl-nav .owl-prev {
+    background: none;
+    color: #fff;
+    border: none;
+    font-family: 'Open Sans';
+    font-size: 50px;
+    font-weight: 400;
+}
+/*Post Slider section end hare */
+.elementor-kit-11056 img {
+    opacity: 1 !important;
+}
+.elementor-post__badge {
+    position: static !important;
+    z-index: 9;
+    width: 100px;
+    left: 0;
+    margin-top: -35px !important;
+    margin-bottom: 10px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.slider-categories {
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+}
+.slider-read-more a {
+    display: inline-block;
+    padding: 0 25px;
+    border: 1px solid;
+    font-size: 13px;
+    line-height: 40px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+/**PKR podcast newslatter star hare**/
+/* .gform_legacy_markup_wrapper input:not([type="radio"]):not([type="checkbox"]):not([type="submit"]):not([type="button"]):not([type="image"]):not([type="file"]) {
+  border:none;
+  border-bottom: 1px solid #a1a1a1;
+  background: transparent;
+} */
+
+.gform_legacy_markup_wrapper .field_sublabel_below .ginput_complex.ginput_container label, .gform_legacy_markup_wrapper .field_sublabel_below div[class*="gfield_time_"].ginput_container label {
+  margin: 0;
+  display: none;
+}
+.gform_legacy_markup_wrapper .top_label .gfield_label, .gform_legacy_markup_wrapper legend.gfield_label {
+  display: none;
+}
+.gform_legacy_markup_wrapper.gf_browser_gecko select {
+  padding: 4px 12px 7px 2px;
+  border: none;
+  background: transparent;
+  border-bottom: 1px solid #a1a1a1;
+	color: #D1C6C0;
+}
+.gform_legacy_markup_wrapper .gform_footer {
+  text-align: center;
+}
+.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button{
+	background-color: #FF3D68;
+  color: #FFF !important;
+}
+.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover {
+  background-color: #FF2857;
+  color: #FFF !important;
+}
+.elementor-17734 .elementor-element.elementor-element-2218e27 .elementor-icon-list-icon {
+  color: #FF3B69;
+}
+.header-image-logo {
+  opacity: .5;
+  background-color: #FFC0CB;
+	z-index:999;
+}
+/**PKR podcast newslatter end hare**/
+.elementor-16567 .elementor-element.elementor-element-ae6d453 .elementor-repeater-item-09a0c04.elementor-social-icon svg {
+    /* fill: #E2509A; */
+    color: #9e499c;
+}
+.elementor-16567 .elementor-element.elementor-element-ae6d453 .elementor-repeater-item-29e7451.elementor-social-icon {
+   color:#F4CD17;
+}
+.elementor-16567 .elementor-element.elementor-element-ae6d453 .elementor-repeater-item-3a58223.elementor-social-icon {
+    color:#A0E0E0;
+}
+a#texth:hover{
+color:black !important;
+}
